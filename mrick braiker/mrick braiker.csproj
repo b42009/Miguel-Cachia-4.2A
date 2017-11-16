@@ -94,7 +94,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\LevelManager.cs" />
-    <Compile Include="Assets\musicPlayerSkript.cs" />
+    <Compile Include="Assets\Scripts\ball.cs" />
+    <Compile Include="Assets\Scripts\luseboarder.cs" />
+    <Compile Include="Assets\Scripts\musicPlayerSkript.cs" />
+    <Compile Include="Assets\Scripts\padal.cs" />
+    <Compile Include="Assets\brik.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\fonds\read me.txt" />
